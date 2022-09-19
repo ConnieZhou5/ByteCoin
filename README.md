@@ -1,6 +1,6 @@
 # ByteCoin
-<h3>a Bitcoin price reporter
-<h3>The app will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
+a Bitcoin price reporter
+The app will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
 
 
 <h3>
