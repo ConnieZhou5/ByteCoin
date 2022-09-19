@@ -1,7 +1,10 @@
 # ByteCoin
-a Bitcoin price reporter
+<h3> a Bitcoin price reporter
 
 
-<h1>
-Test
-<\h1>
+<h2>
+ <ul>
+   <li>use URLSession to make HTTP requests and JSONDecoder for JSON parsing
+   <li>hi
+   
+
