@@ -1,10 +1,11 @@
 # ByteCoin
-<h3> a Bitcoin price reporter
+<h3>a Bitcoin price reporter
+<h3>The app will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
 
 
-<h2>
+<h3>
  <ul>
    <li>use URLSession to make HTTP requests and JSONDecoder for JSON parsing
-   <li>hi
+   <li>use API key
    
 
