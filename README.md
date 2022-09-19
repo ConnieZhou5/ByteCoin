@@ -1,0 +1,2 @@
+# ByteCoin
+Bitcoin Currency Converter
